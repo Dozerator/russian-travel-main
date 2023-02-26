@@ -23,11 +23,10 @@
         padding-left: calc(16px - 16 * ((100vw - 320px) / 448));
     }
 }
-/*
 
 @media (max-width: 320px) {
     .places__title {
         padding-left: 16px;
         padding-right: 16px;
     }
-}*/
+}
