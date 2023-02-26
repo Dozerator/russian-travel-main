@@ -12,4 +12,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 
 ## Ссылка на проект:
-https://github.com/Dozerator/russian-travel
+[https://github.com/Dozerator/russian-travel](https://dozerator.github.io/russian-travel-main/)
