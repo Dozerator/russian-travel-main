@@ -12,7 +12,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .places__items {
         row-gap: calc(50px + 23 * ((100vw - 320px) / 448));
     }
