@@ -24,7 +24,7 @@
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 620px) {
     .places__item {
         grid-template-columns: fit-content(460px);
         grid-template-rows: max-content;
