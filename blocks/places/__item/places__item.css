@@ -24,9 +24,9 @@
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 600px) {
     .places__item {
-        grid-template-columns: fit-content(320px);
+        grid-template-columns: fit-content(460px);
         grid-template-rows: max-content;
         row-gap: 32px;
         justify-content: center;
